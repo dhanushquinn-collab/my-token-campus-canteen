@@ -1,0 +1,9 @@
+{
+  "name": "Token — canteen pre-order",
+  "short_name": "Token",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101A16",
+  "theme_color": "#101A16",
+  "icons": []
+}
